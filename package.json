@@ -1,0 +1,13 @@
+{
+  "name": "navbat-kutish",
+  "version": "1.0.0",
+  "description": "Kichik bizneslar uchun navbatni boshqarish prototipi (SaaS)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
